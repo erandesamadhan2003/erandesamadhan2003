@@ -1,6 +1,40 @@
-# 💫 About Me:
-I am a passionate and driven third-year B.Tech Information Technology student at the **Indian Institute of Information Technology (IIIT) Vadodara**. I enjoy turning complex problems into simple, beautiful, and intuitive web applications.<br><br>Currently, I’m working on a **real-time collaborative live code editor** powered by **Monaco Editor**, **Socket.IO**, and **MongoDB**, integrating AI features using **Hugging Face’s StarCoder**. I'm also exploring **offline support**, **conflict resolution**, and **room-based access control** to enhance the user experience.<br><br>I specialize in building responsive and dynamic web apps using **React.js**, **Next.js**, **Node.js**, **MongoDB**, and **Tailwind CSS**. I am also familiar with **MySQL**, **Express.js**, **Electron.js**, and RESTful APIs.<br><br>In addition to web development, I’m strengthening my foundation in **Data Structures and Algorithms**, and regularly solve problems on platforms like **LeetCode** and **GeeksforGeeks**.<br><br>I actively participate in **hackathons**, enjoy collaborating on **open-source projects**, and love working on **innovative tech ideas** that challenge me to grow as a developer and problem-solver.
+# Hi there! 👋 I'm Samadhan Erande
 
+## 🚀 About Me
+I'm a passionate **Full Stack Developer** and third-year **B.Tech Information Technology** student at **IIIT Vadodara**. I love transforming complex problems into elegant, user-friendly web applications that make a difference.
+
+## 🔭 What I'm Currently Working On
+- **Real-time Collaborative Code Editor** - Building a live coding platform with Monaco Editor, Socket.IO, and MongoDB
+- Integrating **AI-powered features** using Hugging Face's StarCoder
+- Implementing offline support and advanced conflict resolution systems
+- Exploring **blockchain technologies** and decentralized applications
+
+## 💻 Tech Stack & Skills
+**Frontend:** React.js, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)  
+**Backend:** Node.js, Express.js, RESTful APIs  
+**Databases:** MongoDB, MySQL  
+**Tools & Others:** Socket.IO, Electron.js, Git, GitHub  
+**Programming:** C++, JavaScript, Python  
+**Currently Learning:** Blockchain Development, Advanced DSA
+
+## 🏆 What Drives Me
+- **Problem Solving:** Regular contributor on LeetCode and GeeksforGeeks
+- **Open Source:** Actively contributing to community projects
+- **Hackathons:** Love the thrill of building innovative solutions under pressure
+- **Continuous Learning:** Always exploring new technologies and best practices
+
+## 🎯 Goals
+- Mastering advanced **Data Structures & Algorithms**
+- Building scalable, production-ready applications
+- Contributing more to **open-source projects**
+- Exploring **AI/ML integration** in web applications
+
+## 📫 Let's Connect!
+I'm always excited to collaborate on interesting projects or discuss new ideas. Feel free to reach out!
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad." - Cory House*
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/samadhan2003) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samadhan_sami) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samadhan-erande-103712326) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:erandesamadhan2003@gmail.com) 
