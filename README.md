@@ -3,12 +3,6 @@
 ## 🚀 About Me
 I'm a passionate **Full Stack Developer** and third-year **B.Tech Information Technology** student at **IIIT Vadodara**. I love transforming complex problems into elegant, user-friendly web applications that make a difference.
 
-## 🔭 What I'm Currently Working On
-- **Real-time Collaborative Code Editor** - Building a live coding platform with Monaco Editor, Socket.IO, and MongoDB
-- Integrating **AI-powered features** using Hugging Face's StarCoder
-- Implementing offline support and advanced conflict resolution systems
-- Exploring **blockchain technologies** and decentralized applications
-
 ## 💻 Tech Stack & Skills
 **Frontend:** React.js, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)  
 **Backend:** Node.js, Express.js, RESTful APIs  
