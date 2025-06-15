@@ -24,7 +24,7 @@ I'm a passionate **Full Stack Developer** and third-year **B.Tech Information Te
 
 ## 💼 Featured Projects
 
-### 🔥 [Real-time Code Collaborator](https://github.com/erandesamadhan2003/HTTP-Server) ✅ **Completed**
+### 🔥 [Real-time Code Collaborator](https://github.com/erandesamadhan2003/HackIIITV) 
 A sophisticated live code editor with real-time collaboration, AI assistance, and advanced room management.
 - **Tech Stack:** Monaco Editor, Socket.IO, MongoDB, Node.js
 - **Features:** Real-time sync, AI code suggestions, conflict resolution
