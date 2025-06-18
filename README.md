@@ -82,20 +82,17 @@ Custom HTTP server built from scratch demonstrating deep understanding of web pr
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erandesamadhan2003&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erandesamadhan2003&layout=compact&langs_count=8&theme=radical&cache_seconds=86400"/>
   
 </div>
-
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erandesamadhan2003&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  
-</div>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=erandesamadhan2003&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
+</div>
 <div align="center">
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=erandesamadhan2003&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
