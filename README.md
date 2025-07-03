@@ -138,15 +138,7 @@ const samadhan = {
 
 </div>
 
----
 
-## 💭 Philosophy
-
-> *"Code is like humor. When you have to explain it, it's bad."* - Cory House
-
-> *"The best way to predict the future is to create it."* - My Approach to Development
-
----
 
 <div align="center">
   
@@ -156,8 +148,3 @@ const samadhan = {
 
 ---
 
-<div align="center">
-  
-  ⭐️ From [Samadhan Erande](https://github.com/erandesamadhan2003) with ❤️
-  
-</div>
