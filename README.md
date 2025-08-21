@@ -17,7 +17,7 @@ I'm a passionate **Full Stack Developer** and third-year **B.Tech Information Te
 - Develop smart contracts and DeFi applications using Solidity, Web3.js, and Hardhat
 - Solve complex algorithmic problems and contribute to open-source projects
 - Create innovative web solutions with focus on performance and user experience
-- Explore cutting-edge technologies including Blockchain, AI/ML, and System Design
+- Explore cutting-edge technologies including Blockchain and System Design
 
 
 ---
