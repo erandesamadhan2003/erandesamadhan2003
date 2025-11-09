@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Blockchain+Developer;B.Tech+IT+Student+%40+IIIT+Vadodara;Problem+Solver+%7C)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Blockchain+Developer;B.Tech+IT+Student+%40+IIIT+Vadodara;React+Native+Developer+%7C+Problem+Solver)](https://git.io/typing-svg)
   
 </div>
 
@@ -10,36 +10,44 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** and third-year **B.Tech Information Technology** student at **IIIT Vadodara**. I specialize in transforming complex problems into elegant, scalable web applications that deliver exceptional user experiences.
+I'm a passionate **Full Stack Developer** and **Blockchain Enthusiast** currently pursuing B.Tech in Information Technology at **IIIT Vadodara**. I specialize in building scalable applications, real-time systems, and blockchain solutions with a strong foundation in problem-solving and software engineering principles.
 
 **What I Do:**
-- Build scalable full-stack applications with modern tech stacks (MERN, Next.js)
-- Develop smart contracts and DeFi applications using Solidity, Web3.js, and Hardhat
-- Solve complex algorithmic problems and contribute to open-source projects
-- Create innovative web solutions with focus on performance and user experience
-- Explore cutting-edge technologies including Blockchain and System Design
-
+- Develop full-stack web applications using modern technologies (MERN Stack, Next.js)
+- Build decentralized applications and smart contracts on Ethereum blockchain
+- Create real-time collaborative platforms with WebSocket integration
+- Develop cross-platform mobile applications using React Native
+- Solve complex algorithmic problems with strong DSA skills
 
 ---
 
 ## 💼 Featured Projects
 
-### 🔥 [Real-time Code Collaborator](https://github.com/erandesamadhan2003/HackIIITV) 
-A sophisticated live code editor with real-time collaboration, AI assistance, and advanced room management.
-- **Tech Stack:** Monaco Editor, Socket.IO, MongoDB, Node.js
-- **Features:** Real-time sync, AI code suggestions, conflict resolution
-- **Status:** Successfully implemented and deployed
+### 🔐 [SecureVote – Blockchain E-Voting DApp](https://github.com/erandesamadhan2003/SecureVote-Blockchain)
+A decentralized voting platform built on Ethereum blockchain ensuring transparent and tamper-proof elections.
+- **Tech Stack:** Solidity, Hardhat, Ethers.js, React.js, Node.js
+- **Features:** Role-based access control (4 user roles), Immutable audit trails, Cryptographic verification, Fraud prevention
+- **Blockchain:** Ethereum, Sepolia Testnet, Smart Contracts
+- **Impact:** Eliminated centralized manipulation risks through decentralized architecture
 
-### 🎨 [SketchNSnort - Multiplayer Drawing Game](https://github.com/erandesamadhan2003/Scribble)
-A real-time multiplayer drawing and guessing game with seamless interactive gameplay. Draw. Guess. Laugh. Repeat!
-- **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Socket.IO, HTML5 Canvas
-- **Features:** Live drawing sync, Real-time chat, Custom avatars, Room management, Turn-based mechanics
-- **Highlights:** Solved real-time canvas synchronization and multiplayer state management challenges
+### 🤝 [CoCode - Real-Time Collaborative Code Editor](https://github.com/erandesamadhan2003/HackIIITV) 
+**🏆 HackIIITV 2025 Winner** - Advanced real-time code collaboration platform with AI integration.
+- **Tech Stack:** React.js, Node.js, Express.js, Socket.IO, MongoDB, Gemini AI API
+- **Features:** Real-time code synchronization, 50+ concurrent users, 99.9% code consistency, AI-powered suggestions
+- **Performance:** WebSocket-based communication with zero latency
+- **Achievement:** 1st Prize among 50+ teams | 35% productivity improvement
 
-### 🌐 [HTTP Server Implementation](https://github.com/erandesamadhan2003/HTTP-Server)
-Custom HTTP server built from scratch demonstrating deep understanding of web protocols.
-- **Tech Stack:** Node.js, JavaScript
-- **Features:** Custom routing, Middleware support, Performance optimization
+### 🖥️ [Custom Shell Implementation](https://github.com/erandesamadhan2003/shell)
+A feature-rich command-line shell built from scratch with advanced system programming capabilities.
+- **Tech Stack:** C++, Linux System Calls, Process Management
+- **Features:** Intelligent tab completion, Pipeline support, Command chaining, Background process management
+- **Technical Depth:** Advanced system programming concepts and process management
+
+### 🌐 [Custom HTTP/1.1 Server](https://github.com/erandesamadhan2003/HTTP-Server)
+A fully-functional HTTP server built from scratch using pure Node.js without external frameworks.
+- **Tech Stack:** Node.js, TCP Sockets, HTTP Protocol, File System APIs
+- **Performance:** Handles 1000+ requests/minute with 30% faster response times
+- **Features:** Custom routing, Middleware support, Protocol implementation
 
 ---
 
@@ -47,35 +55,46 @@ Custom HTTP server built from scratch demonstrating deep understanding of web pr
 
 <div align="center">
 
-### 🎨 Frontend Technologies
+### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🌐 Frontend Development
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-### ⚙️ Backend & Database
+### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=node.js&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-black?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### ⛓️ Blockchain & Web3
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-fff04d?style=for-the-badge&logo=hardhat&logoColor=black)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535a0?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
+
+### 🗄️ Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 🧠 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535a0?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-fff04d?style=for-the-badge&logo=hardhat&logoColor=black)
-
-### 🔧 Tools & Platforms
+### 🔧 Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -101,50 +120,52 @@ Custom HTTP server built from scratch demonstrating deep understanding of web pr
 
 ---
 
+## 💼 Professional Experience
+
+### 📱 React Native Developer Intern
+**Research Internship** | *Aug 2025 – Present*
+- Developing research-focused mobile application using React Native
+- Engineered cross-platform UI components achieving 95% code reuse between iOS and Android
+- Implementing RESTful API integration and state management using Redux and Context API
+- Collaborating with development team using Git version control and weekly code reviews
+
+---
+
 ## 🏆 Achievements & Highlights
 
-- 🎯 **500+** Problems solved on LeetCode and GeeksforGeeks
-- 🏆 **Active Hackathon Participant** - Multiple wins and recognitions
-- 🌟 **Blockchain Developer** - Exploring decentralized technologies and smart contracts
-- 📚 **IIIT Vadodara Student** - Pursuing B.Tech in Information Technology
-- 💡 **Innovation Enthusiast** - Always exploring cutting-edge technologies
+- 🏆 **HackIIITV 2025 Winner** - 1st Place among 50+ teams for CoCode project
+- 🎯 **400+ DSA Problems** solved on LeetCode and GeeksforGeeks
+- 🔗 **Blockchain Developer** - Built SecureVote DApp on Ethereum blockchain
+- 📱 **React Native Developer** - Cross-platform mobile app development
+- 📚 **IIIT Vadodara** - B.Tech IT with 7.72/10 CGPA
+- 💡 **Systems Programmer** - Built custom shell and HTTP server from scratch
 
 ---
 
-## 🎯 Current Focus Areas
+## 🎯 Current Focus
 
 ```javascript
-const samadhan = {
-    designation: "Full Stack Developer",
-    education: "B.Tech IT @ IIIT Vadodara",
-    expertise: ["MERN Stack", "Next.js", "Blockchain", "Web3", "System Design"],
-    completedProjects: ["Real-time Code Editor", "SketchNSnort Game", "HTTP Server"],
-    interests: ["Problem Solving", "Game Development", "DeFi", "Innovation"],
-    goals: ["Master System Design", "Build Scalable Applications", "Contribute to Major OSS"],
-    askMeAbout: ["Web Development", "JavaScript", "React", "Node.js", "MongoDB", "Socket.IO", "Blockchain", "Smart Contracts"]
+const currentFocus = {
+    role: "Full Stack & Blockchain Developer",
+    education: "B.Tech IT @ IIIT Vadodara (2023-2027)",
+    expertise: [
+        "Full Stack Development",
+        "Blockchain & Smart Contracts", 
+        "React Native Mobile Development",
+        "System Programming",
+        "Real-time Applications"
+    ],
+    technologies: [
+        "React.js/React Native",
+        "Node.js & Express.js",
+        "Solidity & Web3",
+        "MongoDB & MySQL",
+        "Socket.IO & WebSockets"
+    ],
+    interests: [
+        "Decentralized Applications",
+        "Real-time Collaboration Tools",
+        "System Design & Architecture",
+        "Open Source Contribution"
+    ]
 };
-```
-
----
-
-## 🤝 Let's Connect & Collaborate!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samadhan-erande-103712326)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erandesamadhan2003@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/samadhan_sami)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erandesamadhan2003)
-
-</div>
-
-
-
-<div align="center">
-  
-  **💫 Always eager to collaborate on innovative projects and explore new technologies!**
-  
-</div>
-
----
-
