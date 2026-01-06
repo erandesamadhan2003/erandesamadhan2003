@@ -20,37 +20,6 @@ I'm a passionate **Full Stack Developer** and **Blockchain Enthusiast** currentl
 - Solve complex algorithmic problems with strong DSA skills
 
 ---
-
-## 💼 Featured Projects
-
-### 🔐 [SecureVote – Blockchain E-Voting DApp](https://github.com/erandesamadhan2003/SecureVote-Blockchain)
-A decentralized voting platform built on Ethereum blockchain ensuring transparent and tamper-proof elections.
-- **Tech Stack:** Solidity, Hardhat, Ethers.js, React.js, Node.js
-- **Features:** Role-based access control (4 user roles), Immutable audit trails, Cryptographic verification, Fraud prevention
-- **Blockchain:** Ethereum, Sepolia Testnet, Smart Contracts
-- **Impact:** Eliminated centralized manipulation risks through decentralized architecture
-
-### 🤝 [CoCode - Real-Time Collaborative Code Editor](https://github.com/erandesamadhan2003/HackIIITV) 
-**🏆 HackIIITV 2025 Winner** - Advanced real-time code collaboration platform with AI integration.
-- **Tech Stack:** React.js, Node.js, Express.js, Socket.IO, MongoDB, Gemini AI API
-- **Features:** Real-time code synchronization, 50+ concurrent users, 99.9% code consistency, AI-powered suggestions
-- **Performance:** WebSocket-based communication with zero latency
-- **Achievement:** 1st Prize among 50+ teams | 35% productivity improvement
-
-### 🖥️ [Custom Shell Implementation](https://github.com/erandesamadhan2003/shell)
-A feature-rich command-line shell built from scratch with advanced system programming capabilities.
-- **Tech Stack:** C++, Linux System Calls, Process Management
-- **Features:** Intelligent tab completion, Pipeline support, Command chaining, Background process management
-- **Technical Depth:** Advanced system programming concepts and process management
-
-### 🌐 [Custom HTTP/1.1 Server](https://github.com/erandesamadhan2003/HTTP-Server)
-A fully-functional HTTP server built from scratch using pure Node.js without external frameworks.
-- **Tech Stack:** Node.js, TCP Sockets, HTTP Protocol, File System APIs
-- **Performance:** Handles 1000+ requests/minute with 30% faster response times
-- **Features:** Custom routing, Middleware support, Protocol implementation
-
----
-
 ## 🛠️ Tech Stack & Expertise
 
 <div align="center">
