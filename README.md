@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Samadhan Erande
+# Hi there! I'm Samadhan Erande
 
 <div align="center">
   
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **Full Stack Developer** and **Blockchain Enthusiast** currently pursuing B.Tech in Information Technology at **IIIT Vadodara**. I specialize in building scalable applications, real-time systems, and blockchain solutions with a strong foundation in problem-solving and software engineering principles.
 
@@ -20,7 +20,7 @@ I'm a passionate **Full Stack Developer** and **Blockchain Enthusiast** currentl
 - Solve complex algorithmic problems with strong DSA skills
 
 ---
-## 🛠️ Tech Stack & Expertise
+## Tech Stack & Expertise
 
 <div align="center">
 
